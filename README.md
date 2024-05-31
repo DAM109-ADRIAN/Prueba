@@ -54,4 +54,4 @@ Nuestro equipo ha desarrollado una aplicación basada en ventanas en Java, dise�
 #### 8. [Bibliografia](Recursos/Documentación/Bibliografía.md)
 
 
-![image]((https://www.google.es/url?sa=i&url=https%3A%2F%2Fwww.revistavanityfair.es%2Farticulos%2Flola-indigo-cantante-entrevista-historia&psig=AOvVaw0vJbL4UnYyMCxN1XvRlrWI&ust=1717190754584000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCNCGlJmotoYDFQAAAAAdAAAAABAE)
+![image](https://media.revistavanityfair.es/photos/6384f514c3409789d1e5f7cc/16:9/w_1920,c_limit/IMG_4479.jpg)
